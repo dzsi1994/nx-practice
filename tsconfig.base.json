@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@shared-ui/card": ["libs/shared-ui/card/src/index.ts"]
+      "@shared-ui/card": ["libs/shared-ui/card/src/index.ts"],
+      "@core/auth": ["libs/core/auth/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
