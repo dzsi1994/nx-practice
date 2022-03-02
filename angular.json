@@ -2,6 +2,8 @@
   "version": 2,
   "projects": {
     "work1": "apps/work1",
-    "work1-e2e": "apps/work1-e2e"
+    "work1-e2e": "apps/work1-e2e",
+    "work2": "apps/work2",
+    "work2-e2e": "apps/work2-e2e"
   }
 }
