@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "shared-ui-card": "libs/shared-ui/card",
     "work1": "apps/work1",
     "work1-e2e": "apps/work1-e2e",
     "work2": "apps/work2",
